@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Android Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- 🔭 I’m currently working on [ChatApp](https://github.com/salim84miya/ChatApp)
+- 🔭 I’m currently working on [Tree plantation App](https://github.com/salim84miya/Oak-Together-Jetpack.git)
 
 - 🌱 I’m currently learning **Android develpment in kotlin**
 
